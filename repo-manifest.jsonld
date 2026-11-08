@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scverse/liana/commit/bf70ace969ffb0155ad075f6737bad791f01818b",
       "git:hexsha": "bf70ace969ffb0155ad075f6737bad791f01818b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scverse/liana/commit/11156ddd0139a49dfebdd08ac230f0ebf008b7f8",
